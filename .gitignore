@@ -17,6 +17,7 @@ build/
 out/
 .next/
 coverage/
+*.tsbuildinfo
 
 # Expo / React Native
 .expo/
